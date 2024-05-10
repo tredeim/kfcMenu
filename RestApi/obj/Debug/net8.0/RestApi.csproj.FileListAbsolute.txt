@@ -74,3 +74,4 @@ C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\refint\Re
 C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.pdb
 C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.genruntimeconfig.cache
 C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\ref\RestApi.dll
+C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.sourcelink.json

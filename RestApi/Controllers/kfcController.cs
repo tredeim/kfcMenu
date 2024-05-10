@@ -44,20 +44,6 @@ public class kfcController : ControllerBase
         if (item is null) return NotFound();
         return Ok(item);
     }
-
-    [HttpGet("categories/list")]
-    public ActionResult<List<Categories>> CategoriesList()
-    {
-        var categories = _crud.CategoriesList();
-        return Ok(categories);
-    }
-    
-    [HttpGet("items/list")]
-    public ActionResult<List<Items>> ItemsList(long categoryId)
-    {
-        var items = _crud.ItemsList(categoryId);
-        return Ok(items);
-    }
     
     [HttpPut("categories/update/{id}/{newName}")]
     public ActionResult<Categories> UpdateCategory(long id, string newName)

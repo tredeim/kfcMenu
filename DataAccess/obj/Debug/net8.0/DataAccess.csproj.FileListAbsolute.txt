@@ -15,3 +15,4 @@ C:\Users\ruben\Desktop\C# programming\kfcMenu\DataAccess\obj\Debug\net8.0\DataAc
 C:\Users\ruben\Desktop\C# programming\kfcMenu\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
 C:\Users\ruben\Desktop\C# programming\kfcMenu\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
 C:\Users\ruben\Desktop\C# programming\kfcMenu\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\ruben\Desktop\C# programming\kfcMenu\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json

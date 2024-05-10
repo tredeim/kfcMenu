@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi", "RestApi\RestApi.csproj", "{264A09B1-FF8B-4AC1-81C4-629027BA315F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{372C3578-75BA-4E15-BEAC-7F91DA0C8068}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitialDataFillingApp", "InitialDataFillingApp\InitialDataFillingApp.csproj", "{F6927B6A-7812-4D42-98A9-15D5079AD929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +26,9 @@ Global
 		{264A09B1-FF8B-4AC1-81C4-629027BA315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264A09B1-FF8B-4AC1-81C4-629027BA315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264A09B1-FF8B-4AC1-81C4-629027BA315F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{372C3578-75BA-4E15-BEAC-7F91DA0C8068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{372C3578-75BA-4E15-BEAC-7F91DA0C8068}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{372C3578-75BA-4E15-BEAC-7F91DA0C8068}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{372C3578-75BA-4E15-BEAC-7F91DA0C8068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6927B6A-7812-4D42-98A9-15D5079AD929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6927B6A-7812-4D42-98A9-15D5079AD929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6927B6A-7812-4D42-98A9-15D5079AD929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6927B6A-7812-4D42-98A9-15D5079AD929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -19,24 +19,23 @@ public class CrudOperations : ICrudOperations
             dbContext.SaveChanges();
         }
     }
-
     public void AddItem(long id, string name, int price, long categoryId)
     {
         using (var dbContext = new StoreContext())
         {
+            var cat = dbContext.Categories.Find(categoryId);
             var item = new Items()
             {
                 Id = id,
                 Name = name,
                 Price = price,
-                Categories = dbContext.Categories.Find(categoryId)
+                Categories = cat,
             };
 
             dbContext.Items.Add(item);
             dbContext.SaveChanges();
         }
     }
-
 
     public Categories? GetCategory(long id)
     {
@@ -51,26 +50,6 @@ public class CrudOperations : ICrudOperations
         using (var dbContext = new StoreContext())
         {
             return dbContext.Items.Find(id);
-        }
-    }
-    
-    public List<Categories> CategoriesList()
-    {
-        using (var dbContext = new StoreContext())
-        {
-            return dbContext.Categories.ToList();
-        }
-    }
-
-    public List<Items> ItemsList(long categoryId = -1)
-    {
-        using (var dbContext = new StoreContext())
-        {
-            var items = dbContext.Items.ToList();
-            if (categoryId == -1)
-                return items;
-            
-            return items.Where(i => i.Categories.Id == categoryId).ToList();
         }
     }
     
