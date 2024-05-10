@@ -1,0 +1,11 @@
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ruben\Desktop\C# programming\kfcMenu\Domain\obj\Debug\net8.0\ref\Domain.dll
