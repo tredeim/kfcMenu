@@ -8,32 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ruben\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/rubenmarikyan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben\\Desktop\\C# programming\\kfcMenu\\Domain\\Domain.csproj",
+      "projectUniqueName": "/Users/rubenmarikyan/work/kfcMenu/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ruben\\Desktop\\C# programming\\kfcMenu\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben\\Desktop\\C# programming\\kfcMenu\\Domain\\obj\\",
+      "projectPath": "/Users/rubenmarikyan/work/kfcMenu/Domain/Domain.csproj",
+      "packagesPath": "/Users/rubenmarikyan/.nuget/packages/",
+      "outputPath": "/Users/rubenmarikyan/work/kfcMenu/Domain/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/rubenmarikyan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nexus.ae-rus.net/repository/nuget-group": {}
       },
       "frameworks": {
         "net8.0": {
@@ -45,6 +39,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,77 +1,154 @@
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\appsettings.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\RestApi.exe
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\RestApi.deps.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\RestApi.runtimeconfig.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\RestApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\RestApi.pdb
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Azure.Security.KeyVault.Certificates.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificate.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.Certificateless.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.Diagnostics.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.DownstreamApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenAcquisition.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Identity.Web.TokenCache.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.LoggingExtensions.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Npgsql.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\DataAccess.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Domain.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\DataAccess.pdb
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\bin\Debug\net8.0\Domain.pdb
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.csproj.AssemblyReference.cache
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.AssemblyInfoInputs.cache
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.AssemblyInfo.cs
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.csproj.CoreCompileInputs.cache
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RestApi.props
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestApi.props
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\scopedcss\bundle\RestApi.styles.css
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.csproj.Up2Date
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\refint\RestApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.pdb
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.genruntimeconfig.cache
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\ref\RestApi.dll
-C:\Users\ruben\Desktop\C# programming\kfcMenu\RestApi\obj\Debug\net8.0\RestApi.sourcelink.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/appsettings.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.exe
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.deps.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.runtimeconfig.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.pdb
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Security.KeyVault.Certificates.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Security.KeyVault.Secrets.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Abstractions.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Certificate.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Certificateless.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Diagnostics.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.DownstreamApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.TokenAcquisition.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.TokenCache.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.LoggingExtensions.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Validators.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Npgsql.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/DataAccess.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Domain.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/DataAccess.pdb
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/bin/Debug/net8.0/Domain.pdb
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.AssemblyReference.cache
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.AssemblyInfoInputs.cache
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.AssemblyInfo.cs
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.CoreCompileInputs.cache
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.build.RestApi.props
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestApi.props
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestApi.props
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/scopedcss/bundle/RestApi.styles.css
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.Up2Date
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/refint/RestApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.pdb
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.genruntimeconfig.cache
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/ref/RestApi.dll
+C:/Users/ruben/Desktop/C# programming/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.sourcelink.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/appsettings.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/RestApi
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.deps.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.runtimeconfig.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/RestApi.pdb
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Core.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Identity.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Security.KeyVault.Certificates.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Azure.Security.KeyVault.Secrets.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Abstractions.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Certificate.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Certificateless.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.Diagnostics.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.DownstreamApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.TokenAcquisition.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Identity.Web.TokenCache.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.LoggingExtensions.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.IdentityModel.Validators.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Npgsql.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/DataAccess.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Domain.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/DataAccess.pdb
+/Users/rubenmarikyan/work/kfcMenu/RestApi/bin/Debug/net8.0/Domain.pdb
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.AssemblyReference.cache
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.AssemblyInfoInputs.cache
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.AssemblyInfo.cs
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.CoreCompileInputs.cache
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.sourcelink.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.build.RestApi.props
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RestApi.props
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RestApi.props
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/scopedcss/bundle/RestApi.styles.css
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.csproj.Up2Date
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/refint/RestApi.dll
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.pdb
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/RestApi.genruntimeconfig.cache
+/Users/rubenmarikyan/work/kfcMenu/RestApi/obj/Debug/net8.0/ref/RestApi.dll
