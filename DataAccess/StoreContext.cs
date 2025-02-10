@@ -12,7 +12,7 @@ public class StoreContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseNpgsql("Host=localhost;Port=1321;Database=KFCstore;Username=postgres;Password=lg100hav2");
+        optionsBuilder.UseNpgsql("Host=localhost;Port=1321;Database=KFCstore;Username=postgres;Password=q1w2e3");
     }
 
     public void InitialDataFilling()
